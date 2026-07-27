@@ -10,7 +10,7 @@ Este repositório documenta minha evolução prática em Linux, administração 
 
 | Nº | Tema | Status |
 |---|---|---|
-| 01 | Fundamentos Linux | Base contruída |
+| 01 | Fundamentos Linux | Base construída |
 | 02 | Usuários e Privilégios | Concluído |
 | 03 | Permissões e Controle de Acesso | Próximo |
 
