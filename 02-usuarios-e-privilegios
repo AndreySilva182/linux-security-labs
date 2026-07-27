@@ -1,1 +1,25 @@
+# Laboratório 02 — Usuários e Privilégios Linux
 
+## Objetivo
+
+Compreender o gerenciamento de usuários no Linux, criação de contas, controle de privilégios administrativos e aplicação do princípio do menor privilégio.
+
+## Ambiente
+
+Sistema operacional:
+Ubuntu Linux
+
+Usuário administrador:
+andrey-silva
+
+Usuário criado para testes:
+joao
+
+---
+
+## Criação do usuário
+
+Comando utilizado:
+
+```bash
+sudo useradd -m joao
